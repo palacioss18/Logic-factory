@@ -5,14 +5,13 @@
 ---
 
 ## 👥 El Equipo (The 9)
-* **Jose** 
+* **Palacios** 
 * **Rodri**
 * **Santi**
 * **Hans**
 * **Elias**
 * **Laureyn**
 * **Mrose**
-* **Palacios**
 * **Rocco**
 
 ---
