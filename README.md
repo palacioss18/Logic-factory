@@ -5,7 +5,7 @@
 ---
 
 ## 👥 El Equipo (The 9)
-* **Jose** (@tu-usuario-de-github) — *Administrator*
+* **Jose** 
 * **Rodri**
 * **Santi**
 * **Hans**
