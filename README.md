@@ -30,3 +30,10 @@ Para mantener el orden entre los 9 integrantes, cada uno tiene su espacio:
 ├── rodrigo/        # Aportes y lógica
 ├── .../            # (Cada integrante tiene su carpeta)
 └── shared-docs/    # Apuntes de la facultad, PDFs y diagramas
+```
+## 🛠️Stack Tecnológico.
+. **Lenguajes:** C++,Python
+. **Sistemas:** Ubuntu
+. **Herramientas:** Git, Github Webhooks
+
+
