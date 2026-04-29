@@ -1,4 +1,4 @@
-# 🚀 Logic & Dev Lab - UTN Delta
+# 🚀 Logic & Dev Lab - UTN Delta.
 
 ¡Bienvenidos al laboratorio de código del grupo! Este espacio está diseñado para potenciar nuestras habilidades lógicas y prepararnos para los desafíos de la **Tecnicatura en Programación**. 
 
