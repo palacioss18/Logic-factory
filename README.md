@@ -32,7 +32,7 @@ Para mantener el orden entre los 9 integrantes, cada uno tiene su espacio:
 └── shared-docs/    # Apuntes de la facultad, PDFs y diagramas
 ```
 ## 🛠️Stack Tecnológico.
-. **Lenguajes:** C++,Python
+. **Lenguajes:** C++,Python,Java
 . **Sistemas:** Ubuntu
 . **Herramientas:** Git, Github Webhooks
 
